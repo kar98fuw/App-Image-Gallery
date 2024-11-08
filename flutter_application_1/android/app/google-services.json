@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067526727745",
+    "project_id": "parcial-24ab8",
+    "storage_bucket": "parcial-24ab8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067526727745:android:e14ca759436b15bfa4fec0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1XbwV-01czWxLdX65zgGnN5xSiHtiiBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067526727745:android:2d09fb1f8c5a1941a4fec0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1XbwV-01czWxLdX65zgGnN5xSiHtiiBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
